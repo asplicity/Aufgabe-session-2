@@ -12,3 +12,4 @@ C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\obj\Debug\net8.0\refint\Aufgabe-ses
 C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\obj\Debug\net8.0\Aufgabe-session-2.pdb
 C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\obj\Debug\net8.0\Aufgabe-session-2.genruntimeconfig.cache
 C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\obj\Debug\net8.0\ref\Aufgabe-session-2.dll
+C:\Users\ticob\OneDrive\cs\Aufgabe-session-2\obj\Debug\net8.0\Aufgabe-session-2.sourcelink.json
