@@ -1,0 +1,14 @@
+C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\obj\Debug\net8.0\Aufgabe-session-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\obj\Debug\net8.0\Aufgabe-session-2.AssemblyInfoInputs.cache
+C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\obj\Debug\net8.0\Aufgabe-session-2.AssemblyInfo.cs
+C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\obj\Debug\net8.0\Aufgabe-session-2.csproj.CoreCompileInputs.cache
+C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\bin\Debug\net8.0\Aufgabe-session-2.exe
+C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\bin\Debug\net8.0\Aufgabe-session-2.deps.json
+C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\bin\Debug\net8.0\Aufgabe-session-2.runtimeconfig.json
+C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\bin\Debug\net8.0\Aufgabe-session-2.dll
+C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\bin\Debug\net8.0\Aufgabe-session-2.pdb
+C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\obj\Debug\net8.0\Aufgabe-session-2.dll
+C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\obj\Debug\net8.0\refint\Aufgabe-session-2.dll
+C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\obj\Debug\net8.0\Aufgabe-session-2.pdb
+C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\obj\Debug\net8.0\Aufgabe-session-2.genruntimeconfig.cache
+C:\Users\ticob\Onedrive\cs\Aufgabe-session-2\obj\Debug\net8.0\ref\Aufgabe-session-2.dll
